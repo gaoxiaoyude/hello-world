@@ -1,2 +1,5 @@
 # hello-world
-git
+
+Hi Humans!
+
+Hubot here, I like Node,js and Coffeescript(t)
